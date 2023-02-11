@@ -1,7 +1,7 @@
 import React from 'react';
 
 const manager = () => {
-  return <div>manager</div>;
+  return <div>manager page</div>;
 };
 
 export default manager;

@@ -1,11 +1,7 @@
 import React from 'react';
 
 const manager = () => {
-  return (
-    <div>
-      <h1>manager</h1>
-    </div>
-  );
+  return <div>manager page</div>;
 };
 
 export default manager;
